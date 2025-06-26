@@ -1,0 +1,46 @@
+
+# Ignore temporary Excel/Office files
+~$*
+*.tmp
+*.bak
+*.lock
+*.asd
+*.wbk
+
+# Ignore temporary files created by Excel autosave
+*.lnk
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore Excel autosave or backup files
+*.xlsb
+*.xlk
+*.xlsm~
+
+# Ignore hidden folders (Windows)
+$RECYCLE.BIN/
+System Volume Information/
+
+# Ignore MacOS folder attributes
+.AppleDouble
+.LSOverride
+
+# Ignore Python or IDE-specific files (if used later)
+__pycache__/
+*.pyc
+.env
+.venv
+.idea/
+.vscode/
+
+# VSCode and GitHub Desktop workspace files
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
