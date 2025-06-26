@@ -32,7 +32,11 @@ This repository includes a [sample_transactions.csv](sample_transactions.csv) fi
 ![PivotTable Summary](screenshots/pivot_view.png)
 
 > Shows automated PivotTable with slicer and categorized spending.
+## ✅ How It Works
 
+1. Click the "Import Transactions" button
+2. Choose a `.csv` file
+3. A new workbook is created with a formatted PivotTable dashboard
 ---
 
 ## 📦 Files
